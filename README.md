@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishe Singh
+- 👋 Hi there, I’m Abhishek Singh
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on MERN Stack Development
